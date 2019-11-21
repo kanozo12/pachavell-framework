@@ -9,3 +9,6 @@
 
 사용법
 =============
+Window, XAMPP 환경에서 작업할 때에는 다음의 절차를 거쳐 프레임워크를 사용할 수 있습니다.
+1. pachavell-framework의 모든 파일을 htdocs에 업로드한다.
+2. XAMPP설정 파일인 httpd.conf에 있는 DocumentRoot와 Directory의 경로를 '../htdocs/public' 같이 설정한다.
